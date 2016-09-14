@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM-Blockchain/cp-web.git"
+    "url": "https://github.com/vojha84/cp-web.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
